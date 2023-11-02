@@ -1,8 +1,8 @@
-# Hola, soy ceropuntouno .-.👋
+# Hola, soy ceropuntouno (0.1)
 
 <p align="center">
 
-  <img src="https://i.imgur.com/nmiLzK0.png" height="200" />
+  <img src="blob:https://imgur.com/ce8e7943-34cb-46c3-9177-87860c385c4b" height="200" />
 </p>
 
 # Soy un desarollador web en proceso
