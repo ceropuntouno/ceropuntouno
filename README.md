@@ -17,5 +17,5 @@
 <p align="left">
   <a href="https://t.me/ceropuntounoo" target="blank"><img align="center"
       src="https://es.wikipedia.org/wiki/Archivo:Telegram_logo.svg"
-      alt="0.1" height="30" width="auto" /></a>
+      alt="ceropuntounoo" height="30" width="auto" /></a>
 </p>
