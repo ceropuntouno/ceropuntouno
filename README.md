@@ -16,6 +16,6 @@
 ## ¿Quieres contactar conmigo?
 <p align="left">
   <a href="https://t.me/ceropuntounoo" target="blank"><img align="center"
-      src="https://es.wikipedia.org/wiki/Archivo:Telegram_logo.svg"
+      src="[https://es.wikipedia.org/wiki/Archivo:Telegram_logo.svg](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg)https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"
       alt="ceropuntounoo" height="30" width="auto" /></a>
 </p>
