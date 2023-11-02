@@ -1,12 +1,6 @@
 # Hola, soy ceropuntouno .-.👋
 # Soy un desarollador web en proceso
 
-<br>
-<div style ="display:flex;" align="center">
-  <img src="https://drive.google.com/file/d/1CYfIK9qG6cx3da4bSkjaDZD7klZoVGy7/view?usp=sharing" style="width:700px"/>
-</div>
-
-
 ## Mis conocimientos
 
 <p align="left"> 
