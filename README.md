@@ -3,9 +3,7 @@
 
 <br>
 <div style ="display:flex;" align="center">
-  <img src="https://imgur.com/a/yyci17D" style="width:250px"/>
-  <img src="https://drive.google.com/uc?id=1qzjjmpa6oY9a3xq3mCqWoufaMO5LgDMs" style="height:200px"/>
-  <img src="https://drive.google.com/uc?id=14xqv5Vq1iSHgQblRQwoVmMGU7XPq05u4" style="width:230px"/>
+  <img src="https://drive.google.com/file/d/1CYfIK9qG6cx3da4bSkjaDZD7klZoVGy7/view?usp=sharing" style="width:700px"/>
 </div>
 
 
