@@ -1,7 +1,12 @@
 # Hola, soy ceropuntouno .-.👋
 # Soy un desarollador web en proceso
 
-<img align="center" width="400" alt="ceroo" src="https://imgur.com/a/yyci17D"/>
+<br>
+<div style ="display:flex;" align="center">
+  <img src="https://imgur.com/a/yyci17D" style="width:250px"/>
+  <img src="https://drive.google.com/uc?id=1qzjjmpa6oY9a3xq3mCqWoufaMO5LgDMs" style="height:200px"/>
+  <img src="https://drive.google.com/uc?id=14xqv5Vq1iSHgQblRQwoVmMGU7XPq05u4" style="width:230px"/>
+</div>
 
 
 ## Mis conocimientos
