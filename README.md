@@ -1,7 +1,7 @@
 # Hola, soy ceropuntouno .-.👋
 # Soy un desarollador web en proceso
 
-[![Banner ceropuntouno](https://imgur.com/a/yyci17D)]
+<img align="center" width="400" alt="ceroo" src="https://imgur.com/a/yyci17D"/>
 
 
 ## Mis conocimientos
